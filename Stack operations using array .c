@@ -35,7 +35,7 @@ int top = -1;  // Stack is initially empty
 // Push operation
 void push(int x)
 {
-    if (top >= MAX - 1)  // Check if the stack is full
+    if (top == MAX - 1)  // Check if the stack is full
     {
         printf("Stack overflow\n");
     }
