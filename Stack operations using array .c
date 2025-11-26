@@ -7,7 +7,7 @@ Display – Show all elements in the stack
 
 ALGORITHM:
 1. PUSH(x)
-Step 1: If top >= MAX – 1, stack overflow → print message
+Step 1: If top == MAX – 1, stack overflow → print message
 Step 2: Else increment top
 Step 3: Insert x at stack[top]
 Step 4: End
