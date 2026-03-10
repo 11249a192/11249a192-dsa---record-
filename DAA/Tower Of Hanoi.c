@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 void hanoi(int n,char s,char a,char d)
 {
