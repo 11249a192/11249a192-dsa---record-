@@ -1,5 +1,5 @@
 AIM:
-To implement tower of hanoi using recursion to move n disks from sourse to destination rod
+To implement tower of hanoi using recursion to move n disks from sourse to destination rod.
 
 ALGORITHM:
 1. check the  Base Condition. 
