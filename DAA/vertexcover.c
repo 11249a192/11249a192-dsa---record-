@@ -1,3 +1,7 @@
+
+AIM:
+To implement  the vertexcover problem from the graph.
+ 
  Algorithm 
 1. Initialize a set C to be empty (this will hold our vertex cover). 
 2. Mark all vertices as "not visited." 
