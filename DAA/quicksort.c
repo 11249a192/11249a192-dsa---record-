@@ -1,3 +1,7 @@
+
+AIM:
+To implement the randamized algorithm using the quicksort.
+ 
  Algorithm (Without Randomization) 
 1. Choose the last element of the current sub-array as the Pivot. 
 2. Move all elements smaller than the pivot to its left and all larger elements to its right. 
